@@ -1,0 +1,12 @@
+node_modules/
+.next/
+.vercel/
+.codex-harness/
+.playwright-cli/
+output/
+.env*
+!.env.example
+*.tsbuildinfo
+next-env.d.ts
+
+.vercel
